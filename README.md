@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @drin-lab
+- 👋 Hi, I’m @drin-lab "Aldrin"
 - 👀 I’m interested in Data Science and Content Creation
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning data science projects 
 - 💞️ I’m looking to collaborate on projects related to Data Science
 - 📫 How to reach me ...
 
