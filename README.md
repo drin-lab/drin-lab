@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @drin-lab "Aldrin"
-- 👀 I’m interested in Data Science and Content Creation
-- 🌱 I’m currently learning data science projects and doing a degree in "Data Analysis"
-- 💞️ I’m looking to collaborate on projects related to Data Science
-- 📫 How to reach me ...
+<!-- wp:paragraph -->
+<p>Atualmente cursando 'Análise de Dados' e já graduado em 'Sociologia'. Venho estudando muito Machine Learning para o desenvolvimento de modelos (tanto descritivos como preditivos). Meus pontos fortes são:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Content creation</li><li>Extração, análise e visualização de dados</li></ul>
+<!-- /wp:list -->
+<ul><li>Python</li></ul>
+<ul><li>SQL</li></ul>
+<ul><li>Power Bi (Fluência) & Tableau (Nível intermediário) </li></ul>
+<!-- wp:paragraph -->
+
 
 <!---
 drin-lab/drin-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
