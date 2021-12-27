@@ -5,7 +5,7 @@
 <!-- wp:list -->
 <ul><li>Content creation</li><li>Extração, análise e visualização de dados</li></ul>
 <!-- /wp:list -->
-<ul><li>Python</li></ul>
+<ul><li>Python , R</li></ul>
 <ul><li>SQL</li></ul>
 <ul><li>Power Bi (Fluência) & Tableau (Nível intermediário) </li></ul>
 <!-- wp:paragraph -->
