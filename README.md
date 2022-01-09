@@ -3,7 +3,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Content creation</li><li>Extração, análise e visualização de dados</li></ul>
+<ul><li>Extração, análise e visualização de dados</li></ul>
 <!-- /wp:list -->
 <ul><li>Python , R</li></ul>
 <ul><li>SQL</li></ul>
