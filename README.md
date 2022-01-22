@@ -7,7 +7,7 @@
 <!-- /wp:list -->
 <ul><li>Python , R</li></ul>
 <ul><li>SQL</li></ul>
-<ul><li>Power Bi (Nível avançado) & Tableau (Nível intermediário) </li></ul>
+<ul><li>Power Bi & Tableau & Dash (framework python) </li></ul>
 <!-- wp:paragraph -->
 
 
