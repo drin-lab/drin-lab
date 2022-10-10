@@ -1,5 +1,5 @@
 <!-- wp:paragraph -->
-<p>Atualmente cursando o último semestre de 'Análise de Dados'. Venho me aprofundando em Machine Learning para o desenvolvimento de modelos (tanto descritivos como preditivos). Meus pontos fortes são:</p>
+<p> Analista de Dados. Venho me aprofundando em Machine Learning para o desenvolvimento de modelos (tanto descritivos como preditivos). Meus pontos fortes são:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
